@@ -4,7 +4,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 
 ### Skills
 
-| Programming Languages | Knowledge |
+| Programming languages | Knowledge |
 | - | - |
 | C | █ |
 | C++ | ███ |
@@ -27,6 +27,13 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 - C#, Avalonia
 - group project
 - currently working on..
+
+#### rfsocial (https://github.com/rfsocial/rfsocial)
+- social media web application
+- node.js, EJS, PostgreSQL
+- September 2024
+- group project
+- partially finished project
 
 #### Stuffort (https://github.com/bmartin042503/stuffort)
 - a mobile app that stores study related subjects and tasks with a built-in timer
