@@ -20,7 +20,15 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | node.js | ██ |
 | Avalonia | ████ |
 
-### Projects
+### Solo projects
+
+#### Stuffort (https://github.com/bmartin042503/stuffort)
+- a mobile app that stores study related subjects and tasks with a built-in timer
+- C#, Xamarin
+- May 2021
+- finished project, no longer maintained
+
+### Group projects
 
 #### Avallama (https://github.com/eyeonspringfield/avallama)
 - a cross-platform desktop app that provides a GUI for ollama
@@ -34,9 +42,3 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 - September 2024
 - group project
 - partially finished project
-
-#### Stuffort (https://github.com/bmartin042503/stuffort)
-- a mobile app that stores study related subjects and tasks with a built-in timer
-- C#, Xamarin.Forms
-- May 2021
-- finished project, no longer maintained
