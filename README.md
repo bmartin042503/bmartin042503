@@ -33,12 +33,10 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 #### Avallama (https://github.com/eyeonspringfield/avallama)
 - a cross-platform desktop app that provides a GUI for ollama
 - C#, Avalonia
-- group project
 - currently working on..
 
 #### rfsocial (https://github.com/rfsocial/rfsocial)
 - social media web application
 - node.js, EJS, PostgreSQL
 - September 2024
-- group project
 - partially finished project
