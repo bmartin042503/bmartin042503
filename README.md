@@ -19,6 +19,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | - | - |
 | node.js | ██ |
 | Avalonia | ████ |
+| Vue.js | █ |
 
 ### Solo projects
 
@@ -26,7 +27,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 - a mobile app that stores study related subjects and tasks with a built-in timer
 - C#, Xamarin
 - May 2021
-- finished project, no longer maintained
+- finished project, archived
 
 ### Group projects
 
@@ -38,5 +39,5 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 #### rfsocial (https://github.com/rfsocial/rfsocial)
 - social media web application
 - node.js, EJS, PostgreSQL
-- September 2024
+- Sept 2024
 - partially finished project
