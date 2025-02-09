@@ -27,7 +27,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 - a mobile app that stores study related subjects and tasks with a built-in timer
 - C#, Xamarin
 - May 2021
-- finished project, archived
+- completed, archived
 
 ### Group projects
 
@@ -40,4 +40,10 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 - social media web application
 - node.js, EJS, PostgreSQL
 - Sept 2024
-- partially finished project
+- partially completed
+
+#### iwiw-webterv (https://github.com/bmartin042503/iwiw-webterv)
+- a very simple social media web application
+- PHP, JavaScript
+- Apr 2023
+- partially completed, archived
