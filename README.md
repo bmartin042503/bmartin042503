@@ -13,6 +13,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | Python | ███ |
 | Kotlin | █ |
 | JavaScript | ████ |
+| TypeScript | █ |
 | Rust | █ |
 
 | Frameworks | Knowledge |
@@ -22,6 +23,11 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | Vue.js | █ |
 
 ### Solo projects
+
+#### catFlower (https://github.com/bmartin042503/catflower)
+- 100% P2P social network with the full functionality of social platforms
+- Rust, Vue.js, TypeScript, Tauri, Vite
+- currently working on..
 
 #### Stuffort (https://github.com/bmartin042503/stuffort)
 - a mobile app that stores study related subjects and tasks with a built-in timer
