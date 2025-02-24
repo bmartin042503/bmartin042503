@@ -1,55 +1,85 @@
-## Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
-My name is Martin Bartos, and I am studying Computer Science at the University of Szeged. My goal is to bring my ideas to life and pursue a successful career in programming. Here is a brief overview of my skills and the projects I am working on or have worked on.
+My name is Martin Bartos, and I am studying Computer Science at the University of Szeged. My goal is to bring my ideas to life and pursue a successful career in programming. Here is a brief overview of the projects I am working on or have worked on.
 
-### Skills
+---
 
-| Programming languages | Knowledge |
-| - | - |
-| C | █ |
-| C++ | ███ |
-| C# | █████ |
-| Java | ███ |
-| Python | ███ |
-| Kotlin | █ |
-| JavaScript | ████ |
-| TypeScript | █ |
-| Rust | █ |
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/bmartin042503/catflower/refs/heads/main/public/rectangular-logo.png" alt="catflower logo" style="height: 36px; margin-right: 20px;">
+    <h2>catflower</h2>
+</div>
 
-| Frameworks | Knowledge |
-| - | - |
-| node.js | ██ |
-| Avalonia | ████ |
-| Vue.js | █ |
+A **multi-platform application that lets users join a serverless, peer-to-peer based social network**. It provides the same user experience as most social platforms, while giving full access to users over their data. This is planned as a solo hobby project, but I am looking forward to open it up to contributions later on.
 
-### Solo projects
+#### Tech stack
+- Rust, Vue.js, Tauri - (Windows, Linux, macOS)
+- Kotlin, Jetpack Compose - (Android)
+- Swift - (iOS)
 
-#### catFlower (https://github.com/bmartin042503/catflower)
-- 100% P2P social network with the full functionality of social platforms
-- Rust, Vue.js, TypeScript, Tauri, Vite
-- currently working on..
+#### *This project is under development..*
 
-#### Stuffort (https://github.com/bmartin042503/stuffort)
-- a mobile app that stores study related subjects and tasks with a built-in timer
-- C#, Xamarin
-- May 2021
-- completed, archived
+https://github.com/bmartin042503/catflower
 
-### Group projects
+---
 
-#### Avallama (https://github.com/eyeonspringfield/avallama)
-- a cross-platform desktop app that provides a GUI for ollama
-- C#, Avalonia
-- currently working on..
+<div style="display: flex; align-items: center;">
+    <img src="./images/avallama-rectangular.png" alt="avallama logo" style="height: 36px; margin-right: 20px;">
+    <h2>Avallama</h2>
+</div>
 
-#### rfsocial (https://github.com/rfsocial/rfsocial)
-- social media web application
-- node.js, EJS, PostgreSQL
-- Sept 2024
-- partially completed
+A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ollama**. I have been working on this project with Márk Csörgő as a team (https://github.com/eyeonspringfield).
 
-#### iwiw-webterv (https://github.com/bmartin042503/iwiw-webterv)
-- a very simple social media web application
+#### Tech stack
+- C#, Avalonia - (Windows, Linux)
+
+#### *This project is under development..*
+
+(It is a private repository, will be changed to public after the first release)
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
+    <h2>rfsocial</h2>
+</div>
+
+A simple **social media web application** that I have worked on with six people. It was made as an assignment for a university course.
+
+#### Tech stack
+- Node.js, EJS, PostgreSQL
+
+#### *This project is partially finished and not maintained since Dec 2024*
+
+https://github.com/rfsocial/rfsocial
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
+    <h2>iwiw-webterv</h2>
+</div>
+
+A very simple **social media web application** made as an assignment with my teammate for a university course.
+
+#### Tech stack
 - PHP, JavaScript
-- Apr 2023
-- partially completed, archived
+
+#### *This project is partially finished and archived since Apr 2023*
+
+https://github.com/bmartin042503/iwiw-webterv
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/bmartin042503/stuffort/refs/heads/master/Stuffort/Stuffort.Android/Resources/mipmap-xxxhdpi/ic_launcher.png" alt="stuffort logo" style="height: 42px; margin-right: 20px;">
+    <h2>Stuffort</h2>
+</div>
+
+A simple **productivity focused mobile app** to store to-do lists with different categories. It has a built-in timer that can be used to finish assigned tasks while it also saves statistics. This was made to be a solo hobby project.
+
+#### Tech stack
+- C#, Xamarin - (Android)
+
+#### *This project is archived and not maintained since May 2021*
+
+https://github.com/bmartin042503/stuffort
