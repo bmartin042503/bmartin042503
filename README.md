@@ -5,20 +5,18 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/bmartin042503/catflower/refs/heads/main/public/rectangular-logo.png" alt="catflower logo" style="height: 36px; margin-right: 20px;">
-    <h2>catflower</h2>
+    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
+    <h2>ngTravel</h2>
 </div>
 
-A **multi-platform application that lets users join a serverless, peer-to-peer based social network**. It provides the same user experience as most social platforms, while giving full access to users over their data. This is planned as a solo hobby project, but I am looking forward to open it up to contributions later on.
+A **bus ticket reservation system** made for a university course project using the Angular framework.
 
 #### Tech stack
-- Rust, Vue.js, Tauri - (Windows, Linux, macOS)
-- Kotlin, Jetpack Compose - (Android)
-- Swift - (iOS)
+- Angular, Firebase
 
 #### *This project is under development..*
 
-https://github.com/bmartin042503/catflower
+https://github.com/bmartin042503/ngtravel
 
 ---
 
@@ -30,11 +28,33 @@ https://github.com/bmartin042503/catflower
 A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ollama**. I have been working on this project with Márk Csörgő as a team (https://github.com/eyeonspringfield).
 
 #### Tech stack
-- C#, Avalonia - (Windows, Linux)
+- C#, Avalonia - (Windows, Linux, macOS)
+
+#### Current release: v0.1.0 (preview)
 
 #### *This project is under development..*
 
-(It is a private repository, will be changed to public after the first release)
+https://github.com/4foureyes/avallama
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/bmartin042503/catflower/refs/heads/main/public/rectangular-logo.png" alt="catflower logo" style="height: 36px; margin-right: 20px;">
+    <h2>catflower</h2>
+</div>
+
+A **multi-platform application that lets users join a serverless, peer-to-peer based social network**. It provides the same user experience as most social platforms, while giving full access to users over their data. This is planned as a solo hobby project, but I am looking forward to open it up to contributions later on.
+
+#### Tech stack
+- Rust, Vue.js, Tauri - (Windows, Linux, macOS)
+- Kotlin, Jetpack Compose - (Android)
+- Swift - (iOS)
+
+#### Current release: (no releases yet)
+
+#### *This project is under development..*
+
+https://github.com/bmartin042503/catflower
 
 ---
 
