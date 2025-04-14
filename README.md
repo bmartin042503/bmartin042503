@@ -1,24 +1,24 @@
 # Welcome to my GitHub profile!
 
-My name is Martin Bartos, and I am studying Computer Science at the University of Szeged. My goal is to bring my ideas to life and pursue a successful career in programming. Here is a brief overview of the projects I am working on or have worked on.
+My name is Martin Bartos, and I am studying Computer Science at the University of Szeged. My goal is to bring my ideas to life and pursue a successful career in programming. Here is a brief overview of my skills and the projects I am working on or have worked on.
 
----
+## 🛠️ Skills and Experience
 
-<div style="display: flex; align-items: center;">
-    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
-    <h2>ngTravel</h2>
-</div>
+| Programming language | Experience and knowledge |
+|-|-|
+| Pawn | ●●○○○○○○○○ |
+| C | ●●○○○○○○○○ |
+| C++ | ●●○○○○○○○○ |
+| C# | ●●●●●●○○○○ |
+| Java | ●●●●○○○○○○ |
+| JavaScript/TypeScript | ●●●●○○○○○○ |
+| Python | ●●●●○○○○○○ |
+| Kotlin | ●●○○○○○○○○ |
+| Rust | ●●○○○○○○○○ |
 
-A **bus ticket reservation system** made for a university course project using the Angular framework.
+*Last updated: Apr 15 2025*
 
-#### Tech stack
-- Angular, Firebase
-
-#### *This project is under development..*
-
-https://github.com/bmartin042503/ngtravel
-
----
+## 🧑‍💻 Projects
 
 <div style="display: flex; align-items: center;">
     <img src="./images/avallama-rectangular.png" alt="avallama logo" style="height: 36px; margin-right: 20px;">
@@ -59,38 +59,6 @@ https://github.com/bmartin042503/catflower
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
-    <h2>rfsocial</h2>
-</div>
-
-A simple **social media web application** that I have worked on with six people. It was made as an assignment for a university course.
-
-#### Tech stack
-- Node.js, EJS, PostgreSQL
-
-#### *This project is partially finished and not maintained since Dec 2024*
-
-https://github.com/rfsocial/rfsocial
-
----
-
-<div style="display: flex; align-items: center;">
-    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
-    <h2>iwiw-webterv</h2>
-</div>
-
-A very simple **social media web application** made as an assignment with my teammate for a university course.
-
-#### Tech stack
-- PHP, JavaScript
-
-#### *This project is partially finished and archived since Apr 2023*
-
-https://github.com/bmartin042503/iwiw-webterv
-
----
-
-<div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/bmartin042503/stuffort/refs/heads/master/Stuffort/Stuffort.Android/Resources/mipmap-xxxhdpi/ic_launcher.png" alt="stuffort logo" style="height: 42px; margin-right: 20px;">
     <h2>Stuffort</h2>
 </div>
@@ -103,3 +71,35 @@ A simple **productivity focused mobile app** to store to-do lists with different
 #### *This project is archived and not maintained since May 2021*
 
 https://github.com/bmartin042503/stuffort
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
+    <h2>ngTravel</h2>
+</div>
+
+A **bus ticket reservation system** made for a university course project using the Angular framework.
+
+#### Tech stack
+- Angular, TypeScript, Firebase
+
+#### *This project is under development..*
+
+https://github.com/bmartin042503/ngtravel
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="./images/not-available-logo.png" alt="not available logo" style="height: 36px; margin-right: 20px;">
+    <h2>rfsocial</h2>
+</div>
+
+A simple **social media web application** that I have worked on with six people. It was made as an assignment for a university course.
+
+#### Tech stack
+- Node.js, EJS, PostgreSQL
+
+#### *This project is partially finished and not maintained since Dec 2024*
+
+https://github.com/rfsocial/rfsocial
