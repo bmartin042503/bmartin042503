@@ -6,15 +6,15 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 
 | Programming language | Experience and knowledge |
 |-|-|
-| Pawn | ●●○○○○○○○○ |
-| C | ●●○○○○○○○○ |
-| C++ | ●●○○○○○○○○ |
-| C# | ●●●●●●○○○○ |
-| Java | ●●●●○○○○○○ |
-| JavaScript/TypeScript | ●●●●○○○○○○ |
-| Python | ●●●●○○○○○○ |
-| Kotlin | ●●○○○○○○○○ |
-| Rust | ●●○○○○○○○○ |
+| Pawn | ●● |
+| C | ●● |
+| C++ | ●● |
+| C# | ●●●●●● |
+| Java | ●●●● |
+| JavaScript/TypeScript | ●●●● |
+| Python | ●●●● |
+| Kotlin | ●● |
+| Rust | ●● |
 
 *Last updated: Apr 15 2025*
 
