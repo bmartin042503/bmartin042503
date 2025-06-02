@@ -6,7 +6,6 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 
 | Programming language | Experience and knowledge |
 |-|-|
-| Pawn | ●● |
 | C | ●● |
 | C++ | ●● |
 | C# | ●●●●●● |
@@ -30,7 +29,7 @@ A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ol
 #### Tech stack
 - C#, Avalonia - (Windows, Linux, macOS)
 
-#### Current release: v0.1.0 (preview)
+#### Current release: v0.1.1
 
 #### *This project is under development..*
 
@@ -47,14 +46,10 @@ A **multi-platform application that lets users join a serverless, peer-to-peer b
 
 #### Tech stack
 - Rust, Vue.js, Tauri - (Windows, Linux, macOS)
-- Kotlin, Jetpack Compose - (Android)
-- Swift - (iOS)
 
 #### Current release: (no releases yet)
 
 #### *This project is under development..*
-
-https://github.com/bmartin042503/catflower
 
 ---
 
@@ -84,7 +79,7 @@ A **bus ticket reservation system** made for a university course project using t
 #### Tech stack
 - Angular, TypeScript, Firebase
 
-#### *This project is under development..*
+#### *This project is partially finished and not maintained since May 2025*
 
 https://github.com/bmartin042503/ngtravel
 
