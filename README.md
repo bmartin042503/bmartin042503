@@ -13,7 +13,8 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | JavaScript/TypeScript | ●●●● |
 | Python | ●●●● |
 | Kotlin | ●● |
-| Rust | ●● |
+| Rust | ●●● |
+| Scala | ●● |
 
 *Last updated: Apr 15 2025*
 
