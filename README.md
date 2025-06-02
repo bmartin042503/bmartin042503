@@ -16,7 +16,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | Rust | ●●● |
 | Scala | ●● |
 
-*Last updated: Apr 15 2025*
+*Last updated: June 2 2025*
 
 ## 🧑‍💻 Projects
 
