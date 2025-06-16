@@ -13,10 +13,9 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | JavaScript/TypeScript | ●●●● |
 | Python | ●●●● |
 | Kotlin | ●● |
-| Rust | ●●● |
-| Scala | ●● |
+| Rust | ●● |
 
-*Last updated: June 2 2025*
+*Last updated: June 16 2025*
 
 ## 🧑‍💻 Projects
 
@@ -35,22 +34,6 @@ A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ol
 #### *This project is under development..*
 
 https://github.com/4foureyes/avallama
-
----
-
-<div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/bmartin042503/catflower/refs/heads/main/public/rectangular-logo.png" alt="catflower logo" style="height: 36px; margin-right: 20px;">
-    <h2>catflower</h2>
-</div>
-
-A **multi-platform application that lets users join a serverless, peer-to-peer based social network**. It provides the same user experience as most social platforms, while giving full access to users over their data. This is planned as a solo hobby project, but I am looking forward to open it up to contributions later on.
-
-#### Tech stack
-- Rust, Vue.js, Tauri - (Windows, Linux, macOS)
-
-#### Current release: (no releases yet)
-
-#### *This project is under development..*
 
 ---
 
