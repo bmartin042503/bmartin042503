@@ -6,16 +6,14 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 
 | Programming language | Experience and knowledge |
 |-|-|
-| C | ●● |
-| C++ | ●● |
-| C# | ●●●●●● |
-| Java | ●●●● |
+| C | ● |
+| C++ | ● |
+| C# | ●●●●●●● |
+| Java | ●●● |
 | JavaScript/TypeScript | ●●●● |
-| Python | ●●●● |
-| Kotlin | ●● |
-| Rust | ●● |
+| Python | ●●● |
 
-*Last updated: June 16 2025*
+*Last updated: Aug 17 2025*
 
 ## 🧑‍💻 Projects
 
