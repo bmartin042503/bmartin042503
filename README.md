@@ -8,12 +8,12 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 |-|-|
 | C | ● |
 | C++ | ● |
-| C# | ●●●●●●● |
-| Java | ●●● |
-| JavaScript/TypeScript | ●●●● |
-| Python | ●●● |
+| C# | ●●●●●●●● |
+| Java | ●● |
+| JavaScript/TypeScript | ●●● |
+| Python | ●● |
 
-*Last updated: Aug 17 2025*
+*Last updated: Nov 18 2025*
 
 ## 🧑‍💻 Projects
 
@@ -22,14 +22,14 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
     <h2>Avallama</h2>
 </div>
 
-A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ollama**. I have been working on this project with Márk Csörgő as a team (https://github.com/eyeonspringfield).
+A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ollama**. I have been working on this project with my friend as a team.
 
 #### Tech stack
 - C#, Avalonia - (Windows, Linux, macOS)
 
 #### Current release: v0.1.1
 
-#### *This project is under development..*
+#### *This project is under active development..*
 
 https://github.com/4foureyes/avallama
 
