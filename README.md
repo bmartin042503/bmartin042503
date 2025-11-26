@@ -27,9 +27,7 @@ A **multi-platform desktop app** designed to enable a user-friendly **GUI for Ol
 #### Tech stack
 - C#, Avalonia - (Windows, Linux, macOS)
 
-#### Current release: v0.1.1
-
-#### *This project is under active development..*
+#### Current release: v0.2.0
 
 https://github.com/4foureyes/avallama
 
