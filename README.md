@@ -13,7 +13,7 @@ My name is Martin Bartos, and I am studying Computer Science at the University o
 | JavaScript/TypeScript | ●●● |
 | Python | ●● |
 
-*Last updated: Nov 18 2025*
+*Last updated: Nov 26 2025*
 
 ## 🧑‍💻 Projects
 
